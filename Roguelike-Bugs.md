@@ -1,0 +1,3 @@
+- [ ] Create an ending when star(s) are collected.
+- [ ] End the game when star(s) are picked up.
+- [ ] Create a point system for when star(s) are collected. 
